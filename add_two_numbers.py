@@ -1,1 +1,1 @@
-print("this is a simple python program its version is v1")
+print("this is a simple python program its version is v2")
